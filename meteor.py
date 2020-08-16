@@ -32,3 +32,4 @@ def get_dist(meteor):
 
 meteor_data.sort(key=get_dist)
 
+print(meteor_data[0])
